@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Seq.App.OP5Forwarder</id>
+    <version>1.0.0</version>
+    <authors>paul</authors>
+    <owners>paul</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package description</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Tag1 Tag2</tags>
+  </metadata>
+   <files>
+    <file src="Seq.App.OP5Forwarderbin\bin\Release\Newtonsoft.Json.dll" target="lib\net40" />
+    <file src="Seq.App.OP5Forwarderbin\bin\Release\Seq.App.OP5Forwarder.dll" target="lib\net40" />	
+  </files>
+</package>
