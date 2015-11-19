@@ -7,4 +7,4 @@ Seq App for sending events data to OP5.
 From solution root, run:
 
 - msbuild
-- nuget pack Seq.App.OP5Forwarder.dll.nuspec
+- nuget pack Seq.App.OP5Forwarder.nuspec
