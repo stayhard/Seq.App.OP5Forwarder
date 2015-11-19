@@ -3,16 +3,18 @@
   <metadata>
     <id>Seq.App.OP5Forwarder</id>
     <version>1.0.0</version>
-    <authors>paul</authors>
-    <owners>paul</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <authors>StayHard</authors>
+    <owners>StayHard</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/stayhard/Seq.App.OP5Forwarder</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Package description</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
-    <copyright>Copyright 2015</copyright>
-    <tags>Tag1 Tag2</tags>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright Stayhard AB 2015</copyright>
+    <tags>seq-app seq serilog event</tags>
+	<dependencies>
+		<dependency id="Seq.Apps" version="1.6.4.0" />
+    </dependencies>
   </metadata>
    <files>
     <file src="Seq.App.OP5Forwarder\bin\Release\Newtonsoft.Json.dll" target="lib\net40" />
