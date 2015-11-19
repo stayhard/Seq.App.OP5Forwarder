@@ -15,7 +15,7 @@
     <tags>Tag1 Tag2</tags>
   </metadata>
    <files>
-    <file src="Seq.App.OP5Forwarderbin\bin\Release\Newtonsoft.Json.dll" target="lib\net40" />
-    <file src="Seq.App.OP5Forwarderbin\bin\Release\Seq.App.OP5Forwarder.dll" target="lib\net40" />	
+    <file src="Seq.App.OP5Forwarder\bin\Release\Newtonsoft.Json.dll" target="lib\net40" />
+    <file src="Seq.App.OP5Forwarder\bin\Release\Seq.App.OP5Forwarder.dll" target="lib\net40" />	
   </files>
 </package>
