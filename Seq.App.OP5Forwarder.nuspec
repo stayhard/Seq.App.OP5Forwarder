@@ -3,12 +3,12 @@
   <metadata>
     <id>Seq.App.OP5Forwarder</id>
     <version>1.0.0</version>
-    <authors>StayHard</authors>
-    <owners>StayHard</owners>
+    <authors>Stayhard</authors>
+    <owners>Stayhard</owners>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
     <projectUrl>https://github.com/stayhard/Seq.App.OP5Forwarder</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Package description</description>
+    <description>Seq App for sending events data to OP5</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright Stayhard AB 2015</copyright>
     <tags>seq-app seq serilog event</tags>
